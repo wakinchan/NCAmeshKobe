@@ -1,0 +1,12 @@
+Package: com.kindadev.ncameshkobe
+Name: NCAmeshKobe
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: NCAmeshKobe is a notification center widget.
+Homepage: http://kindadev.com/blog/?p=908
+Depiction: http://kindadev.com/cydia/NCAmeshKobe.html
+Maintainer: kinda
+Author: kindadev
+Section: Tweaks
+Conflict: com.kindadev.RainmapKobe
